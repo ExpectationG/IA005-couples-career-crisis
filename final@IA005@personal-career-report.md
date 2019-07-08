@@ -6,10 +6,10 @@
 #### 2.1.1 兴趣测试
 
 APESK 才储团队的两个版本职业兴趣测试
-![](https://pictures-steven.oss-cn-beijing.aliyuncs.com/20190707200417.png)
+![1](https://pictures-steven.oss-cn-beijing.aliyuncs.com/20190707200417.png)
 
 O*NET 职业兴趣测试
-![](https://pictures-steven.oss-cn-beijing.aliyuncs.com/20190707200332.png)
+![2](https://pictures-steven.oss-cn-beijing.aliyuncs.com/20190707200332.png)
 
 小结分析
 APESK的测试是3月份完成，O*NET的测试是6月份完成。3月份的时候，我对E领导事业有着错误的认知，误以为自己很喜欢做这种事情。但后来明白自己不太适合。这个期间还发现自己对S的工作有一定的兴趣，职业兴趣测试的变化代表了自我的变化和明确。两次测试中，I和A的指标都很高，这确实很符合我的气质。
@@ -101,7 +101,7 @@ AIS
 
 ## 2.3 大五人格测试（人格心理学）
 
-![](https://pictures-steven.oss-cn-beijing.aliyuncs.com/我的人格测试量表预测结果.png)
+![3](https://pictures-steven.oss-cn-beijing.aliyuncs.com/我的人格测试量表预测结果.png)
 
 开放性超高于常人，
 尽责性略高常人，
@@ -112,15 +112,15 @@ AIS
 
 ### 11/20/2017
 
-![](https://pictures-steven.oss-cn-beijing.aliyuncs.com/20190707230608.png)
+![4](https://pictures-steven.oss-cn-beijing.aliyuncs.com/20190707230608.png)
 
 ### 20181126
 
-![](https://pictures-steven.oss-cn-beijing.aliyuncs.com/20190707230702.png)
+![5](https://pictures-steven.oss-cn-beijing.aliyuncs.com/20190707230702.png)
 
 ### 20190628
 
-![](https://pictures-steven.oss-cn-beijing.aliyuncs.com/20190707230751.png)
+![6](https://pictures-steven.oss-cn-beijing.aliyuncs.com/20190707230751.png)
 
 ### 小结
 
@@ -165,8 +165,8 @@ Apesk的汉化测试版
 ### 测试
 
 
-![](https://pictures-steven.oss-cn-beijing.aliyuncs.com/20190708131423.png)
-![](https://pictures-steven.oss-cn-beijing.aliyuncs.com/20190708131746.png)
+![7](https://pictures-steven.oss-cn-beijing.aliyuncs.com/20190708131423.png)
+![8](https://pictures-steven.oss-cn-beijing.aliyuncs.com/20190708131746.png)
 
 A3,A4,B3是我职业生涯的阻碍。
 A类是背景和环境因素，B类是社会和人际因素
@@ -215,9 +215,11 @@ A类是背景和环境因素，B类是社会和人际因素
 行动清单
 
 
-##4 讨论
+## 4 讨论
 
-##5 参考文献
+## 5 参考文献
 
 ## ChangeLog
 190707 无味无谓创建
+
+190708 无味无谓增加部分内容
