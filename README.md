@@ -1,6 +1,6 @@
 # IA005-couples-career-crisis# 论小情侣如何走出职业困境
 
-信息分析五期结业大作业协作仓库：暂无
+信息分析五期结业大作业协作仓库：https://www.zotero.org/groups/2338499/yin-bai_alliance
 
 ## 目录
 - [项目简介](#项目简介)
