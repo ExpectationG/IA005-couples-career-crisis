@@ -103,6 +103,8 @@ AIS
 
 ![3](https://github.com/ExpectationG/IA005-couples-career-crisis/blob/master/imgs/big-five-results201906.png)
 
+2019.11.14测试
+![](https://pictures-steven.oss-cn-beijing.aliyuncs.com/20191114180128.png)
 开放性超高于常人，
 尽责性略高常人，
 宜人性、开放性略低于常人，
