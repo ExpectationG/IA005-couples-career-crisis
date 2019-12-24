@@ -103,6 +103,8 @@ AIS
 
 ![3](https://github.com/ExpectationG/IA005-couples-career-crisis/blob/master/imgs/big-five-results201906.png)
 
+2019.11.14测试
+![](https://pictures-steven.oss-cn-beijing.aliyuncs.com/20191114180128.png)
 开放性超高于常人，
 尽责性略高常人，
 宜人性、开放性略低于常人，
@@ -201,7 +203,12 @@ A类是背景和环境因素，B类是社会和人际因素
 
 提炼目标、制定计划(SMART、WOOP)
 
-## 3 结论
+## 3 决策分析
+
+### 3.1.1 平衡单
+
+
+## 4 结论
 
 测试总结
 
@@ -215,11 +222,13 @@ A类是背景和环境因素，B类是社会和人际因素
 行动清单
 
 
-## 4 讨论
+## 5 讨论
 
-## 5 参考文献
+## 6 参考文献
 
 ## ChangeLog
 190707 无味无谓创建
 
 190708 无味无谓增加部分内容
+
+190710 无味无谓增加决策内容
